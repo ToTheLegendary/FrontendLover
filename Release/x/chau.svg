@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100.01px" height="100px" viewBox="0 0 100.01 100" enable-background="new 0 0 100.01 100" xml:space="preserve">
+<g>
+	<circle fill="none" stroke="#D75D62" stroke-miterlimit="10" stroke-dasharray="12.0799,12.0799" cx="50" cy="50" r="50">
+		 <animateTransform 
+		 attributeName ="transform"
+		 atrributeType="XML"
+		 type="rotate"
+		 from="0 50 50"
+		 to="360 50 50"
+		 dur="10s"
+		 repeatCount="indefinite"/>
+	</circle>
+</g>
+<circle fill="#2D5E78" cx="50" cy="50" r="37.125"/>
+<path fill="#FFFFFF" d="M30.688,60.563c0,1.588-1.287,2.875-2.875,2.875l0,0c-1.588,0-2.875-1.287-2.875-2.875V39.438
+	c0-1.588,1.287-2.875,2.875-2.875l0,0c1.588,0,2.875,1.287,2.875,2.875V60.563z">
+		<animateTransform id ="ani"
+		 attributeName = "transform"
+		 atrributeType="XML"
+		 type="translate"
+		 dur="1s"
+		 values="0,10;0-10;0,10"
+		 
+		 repeatCount="indefinite"/>
+</path>
+
+<path fill="#FFFFFF" d="M41.938,60.563c0,1.588-1.287,2.875-2.875,2.875l0,0c-1.588,0-2.875-1.287-2.875-2.875V39.438
+	c0-1.588,1.287-2.875,2.875-2.875l0,0c1.588,0,2.875,1.287,2.875,2.875V60.563z">
+		 <animateTransform id ="ani"
+		 attributeName = "transform"
+		 atrributeType="XML"
+		 type="translate"
+		 dur="1s"
+		 values="0,10;0-10;0,10"
+		 begin=".1"
+		 repeatCount="indefinite"/>
+</path>
+
+
+<path fill="#FFFFFF" d="M51.938,60.563c0,1.588-1.287,2.875-2.875,2.875l0,0c-1.588,0-2.875-1.287-2.875-2.875V39.438
+	c0-1.588,1.287-2.875,2.875-2.875l0,0c1.588,0,2.875,1.287,2.875,2.875V60.563z">
+		 <animateTransform id ="ani"
+		 attributeName = "transform"
+		 atrributeType="XML"
+		 type="translate"
+		 dur="1s"
+		 values="0,10;0-10;0,10"
+		 begin=".2"
+		 repeatCount="indefinite"/>
+
+</path>
+<path fill="#FFFFFF" d="M62.188,60.563c0,1.588-1.287,2.875-2.875,2.875l0,0c-1.588,0-2.875-1.287-2.875-2.875V39.438
+	c0-1.588,1.287-2.875,2.875-2.875l0,0c1.588,0,2.875,1.287,2.875,2.875V60.563z">
+	    <animateTransform id ="ani"
+		 attributeName = "transform"
+		 atrributeType="XML"
+		 type="translate"
+		 dur="1s"
+		 values="0,10;0-10;0,10"
+		 begin=".3"
+		 repeatCount="indefinite"/>
+
+</path>
+<path fill="#FFFFFF" d="M73.063,60.563c0,1.588-1.287,2.875-2.875,2.875l0,0c-1.588,0-2.875-1.287-2.875-2.875V39.438
+	c0-1.588,1.287-2.875,2.875-2.875l0,0c1.588,0,2.875,1.287,2.875,2.875V60.563z">
+		<animateTransform id ="ani"
+		 attributeName = "transform"
+		 atrributeType="XML"
+		 type="translate"
+		 dur="1s"
+		 values="0,10;0-10;0,10"
+		 begin=".4"
+		 repeatCount="indefinite"/>
+
+</path>
+</svg>
